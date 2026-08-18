@@ -1,0 +1,20 @@
+{
+  "name": "Остров сокровищ — читай и зарабатывай",
+  "short_name": "Остров сокровищ",
+  "description": "Тесты и награды по книге «Остров сокровищ»",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3efe6",
+  "theme_color": "#1e4d6b",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

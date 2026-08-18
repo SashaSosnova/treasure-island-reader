@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f4d9a6"/>
+      <stop offset="45%" stop-color="#7eb0c9"/>
+      <stop offset="100%" stop-color="#1e4d6b"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f6f8c"/>
+      <stop offset="100%" stop-color="#16384c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#sky)"/>
+  <circle cx="640" cy="90" r="42" fill="#f7e2b2"/>
+  <rect y="250" width="800" height="200" fill="url(#sea)"/>
+  <path d="M0 250 Q80 236 160 250 T320 250 T480 258 T640 250 T800 255 V450 H0 Z" fill="#1e4d6b" opacity="0.35"/>
+  <ellipse cx="560" cy="300" rx="160" ry="36" fill="#cbb07a"/>
+  <path d="M470 300 L520 210 L610 198 L650 300 Z" fill="#d7c08a" stroke="#5c4a2e" stroke-width="3"/>
+  <path d="M560 210 v-70" stroke="#5c4a2e" stroke-width="8"/>
+  <path d="M560 148 Q500 168 490 200 Q560 176 560 148 Q620 168 630 200 Q560 176 560 148" fill="#3f7a4e" stroke="#2c5536" stroke-width="3"/>
+  <path d="M120 330 L210 250 L390 250 L430 330 Z" fill="#f3efe6" stroke="#1c2430" stroke-width="4"/>
+  <path d="M250 140 v110" stroke="#1c2430" stroke-width="6"/>
+  <path d="M250 148 L340 248 L250 248 Z" fill="#fffdf8" stroke="#1c2430" stroke-width="3"/>
+  <path d="M250 168 L170 248 L250 248 Z" fill="#fffdf8" stroke="#1c2430" stroke-width="3"/>
+  <path d="M248 118 h4 v22 h-4z" fill="#1c2430"/>
+  <path d="M250 118 L292 132 L250 140 Z" fill="#b33a3a"/>
+  <path d="M40 390 Q200 360 400 392 T760 378" fill="none" stroke="#f3efe6" stroke-width="2" opacity="0.35"/>
+</svg>
