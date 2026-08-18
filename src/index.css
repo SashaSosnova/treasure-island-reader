@@ -873,16 +873,16 @@ h2 {
   border-radius: var(--radius);
   overflow: hidden;
   border: 1px solid var(--panel-border);
-  min-height: 160px;
+  min-height: 220px;
   background: #7eb0c9;
 }
 
 .home-hero__img {
   display: block;
   width: 100%;
-  height: clamp(160px, 36vw, 260px);
+  height: clamp(220px, 52vw, 420px);
   object-fit: cover;
-  object-position: center 30%;
+  object-position: center;
 }
 
 .home-hero__shade {
