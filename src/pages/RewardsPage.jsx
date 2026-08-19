@@ -417,6 +417,10 @@ export default function RewardsPage() {
               <span>Выбор без «неправильного» ответа</span>
               <strong>+{YOUR_MOVE_REWARD} ₽</strong>
             </li>
+            <li>
+              <span>Или творческое задание: нарисовать, вырезать, слепить</span>
+              <strong>+{YOUR_MOVE_REWARD} ₽</strong>
+            </li>
           </ul>
 
           <h3 className="rules-subtitle">Финал</h3>
